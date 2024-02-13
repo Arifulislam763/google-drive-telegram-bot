@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
+    BOT_TOKEN = "5749543675:AAGQj_Fc-DwohmH3sg7HO6c45T6KJ3CiTDw"
     APP_ID = ""
     API_HASH = ""
     DATABASE_URL = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6683947"
     SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/Mirrortorrbot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "860053350506-o5h1fnoq3237ojvrq1mgfg74i2hjnhi7.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
