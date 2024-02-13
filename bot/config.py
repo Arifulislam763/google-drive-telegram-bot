@@ -3,7 +3,7 @@ class config:
     APP_ID = "9273413"
     API_HASH = "cc64f8b770f0960bb418768de4126336"
     DATABASE_URL = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6683947"
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "1854562225" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/Mirrortorrbot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "860053350506-o5h1fnoq3237ojvrq1mgfg74i2hjnhi7.apps.googleusercontent.com"
