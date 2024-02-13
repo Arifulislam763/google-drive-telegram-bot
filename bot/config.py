@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = ""
     APP_ID = ""
     API_HASH = ""
-    DATABASE_URL = ""
+    DATABASE_URL = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6683947"
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
