@@ -1,7 +1,7 @@
 class config:
     BOT_TOKEN = "5749543675:AAGQj_Fc-DwohmH3sg7HO6c45T6KJ3CiTDw"
-    APP_ID = ""
-    API_HASH = ""
+    APP_ID = "9273413"
+    API_HASH = "cc64f8b770f0960bb418768de4126336"
     DATABASE_URL = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6683947"
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/Mirrortorrbot"
