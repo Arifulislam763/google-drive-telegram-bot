@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5749543675:AAGQj_Fc-DwohmH3sg7HO6c45T6KJ3CiTDw"
     APP_ID = "9273413"
     API_HASH = "cc64f8b770f0960bb418768de4126336"
-    DATABASE_URL = "mysql://avnadmin:AVNS_uf1hcfY-1o-RgBd8742@mysql-11e7e40d-ariful7638870-82a3.a.aivencloud.com:23681/defaultdb?ssl-mode=REQUIRED"
+    DATABASE_URL = "postgres://Ariful%20Islam:iour7n4hapyO@ep-super-hall-a2qcgvzl.eu-central-1.pg.koyeb.app/Ariful%20islam%20"
     SUDO_USERS = "1854562225" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/Mirrortorrbot"
     DOWNLOAD_DIRECTORY = "/content/drive/Shareddrives/Colab Download/OnedriveXbot"
