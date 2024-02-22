@@ -1,5 +1,5 @@
 class config:
-    BOT_TOKEN = "5488469467:AAEY3C16pB4P_TaBZJDoveT3sEiNcnRjiow"
+    BOT_TOKEN = "5231813015:AAGwYemP-bmwliSdZM0OVQJibL_0uGLv-SU"
     APP_ID = "9273413"
     API_HASH = "cc64f8b770f0960bb418768de4126336"
     DATABASE_URL = "postgres://avnadmin:AVNS_bXDSYjFbugXcwaS-50w@pg-281d74a3-ariful7638870-82a3.a.aivencloud.com:23681/defaultdb?sslmode=require"
