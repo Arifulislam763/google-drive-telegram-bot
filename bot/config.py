@@ -4,7 +4,7 @@ class config:
     API_HASH = "85c306776ca190059a28b3b86858f661"
     DATABASE_URL = "postgres://avnadmin:AVNS_bXDSYjFbugXcwaS-50w@pg-281d74a3-ariful7638870-82a3.a.aivencloud.com:23681/defaultdb?sslmode=require"
     SUDO_USERS = "5950532811 -1002005888660" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/@Mirrortorrbot"
+    SUPPORT_CHAT_LINK = "https://t.me/ariful76388"
     DOWNLOAD_DIRECTORY = "/content/drive/Shareddrives/Colab Download/OnedriveXbot"
     G_DRIVE_CLIENT_ID = "860053350506-o5h1fnoq3237ojvrq1mgfg74i2hjnhi7.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
