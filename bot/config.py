@@ -1,7 +1,7 @@
 class config:
-    BOT_TOKEN = "5231813015:AAGwYemP-bmwliSdZM0OVQJibL_0uGLv-SU"
-    APP_ID = "9273413"
-    API_HASH = "cc64f8b770f0960bb418768de4126336"
+    BOT_TOKEN = "6846750089:AAHSIlNbDGUYd6AzG14x62modvh_5uIT1Bk"
+    APP_ID = "25171903"
+    API_HASH = "85c306776ca190059a28b3b86858f661"
     DATABASE_URL = "postgres://avnadmin:AVNS_bXDSYjFbugXcwaS-50w@pg-281d74a3-ariful7638870-82a3.a.aivencloud.com:23681/defaultdb?sslmode=require"
     SUDO_USERS = "1854562225 -1002005888660" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/Mirrortorrbot"
